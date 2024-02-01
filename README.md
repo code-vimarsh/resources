@@ -1,38 +1,50 @@
-# Resources Repository Structure
+# Coding Club Resources
 
-Welcome to our coding club's resources repository! This repository is organized to help you easily navigate and access study materials, development resources, and practice sessions.
+Welcome to the official repository of our Coding Club! Explore our collection of study materials, development resources, and upcoming events.
 
-## Folder Structure
+## Table of Contents
 
-```
-resources
-├── 📁 01-study-materials
-│   ├── 📁 development
-│   │   ├── 📁 android
-│   │   │   ├── 📁 01-roadmaps
-│   │   │   ├── 📁 02-resources
-│   │   │   ├── 📁 03-practicals
-│   │   │   └── 📁 04-demo-projects
-│   │   └── 📁 website
-│   │       ├── 📁 01-roadmaps
-│   │       ├── 📁 02-resources
-│   │       ├── 📁 03-practicals
-│   │       └── 📁 04-demo-projects
-│   └── 📁 dsa
-│       ├── 📁 01-complexities
-│       ├── 📁 02-notations
-│       ├── 📁 03-data-structures
-│       ├── 📁 04-algorithms
-│       ├── 📁 05-recursions
-│       ├── 📁 06-backtracking
-│       ├── 📁 07-dynamic-programming
-│       └── 📁 08-bit-manipulation
-└── 📁 02-2024
-    ├── 📁 01-weekly-practice
-    ├── 📁 02-monthly-contest
-    └── 📁 03-hackathon
+1. [Study Materials](#study-materials)
+    - [📁 Development](#development)
+        - [📁 Android](#android)
+        - [📁 Website](#website)
+    - [📁 DSA (Data Structures and Algorithms)](#dsa)
+  
+2. [2024 Events](#2024-events)
+    - [📁 Weekly Practice](#weekly-practice)
+    - [📁 Monthly Contest](#monthly-contest)
+    - [📁 Hackathon](#hackathon)
 
-```
+---
+
+## Study Materials
+
+### Development
+
+#### Android
+- [📁 Roadmaps](./01-study-materials/development/android/01-roadmaps)
+- [📁 Resources](./01-study-materials/development/android/02-resources)
+- [📁 Practicals](./01-study-materials/development/android/03-practicals)
+- [📁 Demo Projects](./01-study-materials/development/android/04-demo-projects)
+
+#### Website
+- [📁 Roadmaps](./01-study-materials/development/website/01-roadmaps)
+- [📁 Resources](./01-study-materials/development/website/02-resources)
+- [📁 Practicals](./01-study-materials/development/website/03-practicals)
+- [📁 Demo Projects](./01-study-materials/development/website/04-demo-projects)
+
+### DSA (Data Structures and Algorithms)
+
+- [📁 Complexities](./01-study-materials/dsa/01-complexities)
+- [📁 Notations](./01-study-materials/dsa/02-notations)
+- [📁 Data Structures](./01-study-materials/dsa/03-data-structures)
+- [📁 Algorithms](./01-study-materials/dsa/04-algorithms)
+- [📁 Recursions](./01-study-materials/dsa/05-recursions)
+- [📁 Backtracking](./01-study-materials/dsa/06-backtracking)
+- [📁 Dynamic Programming](./01-study-materials/dsa/07-dynamic-programming)
+- [📁 Bit Manipulation](./01-study-materials/dsa/08-bit-manipulation)
+
+---
 
 ## Usage Guide
 
