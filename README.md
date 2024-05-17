@@ -30,8 +30,10 @@ Welcome to the official repository of our Coding Club! Explore our collection of
 #### Website
 - [📁 Roadmaps](./01-study-materials/development/website/01-roadmaps)
 - [📁 Resources](./01-study-materials/development/website/02-resources)
-- [📁 Practicals](./01-study-materials/development/website/03-practicals)
-- [📁 Demo Projects](./01-study-materials/development/website/04-demo-projects)
+- [📁 Frontend](./01-study-materials/development/website/03-frontend)
+- [📁 Backend](./01-study-materials/development/website/04-backend)
+- [📁 Practicals](./01-study-materials/development/website/05-practicals)
+- [📁 Demo Projects](./01-study-materials/development/website/06-demo-projects)
 
 ### DSA (Data Structures and Algorithms)
 
